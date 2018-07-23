@@ -1,0 +1,22 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "login system",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gk108000/Login.git"
+  },
+  "keywords": [
+    "login"
+  ],
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gk108000/Login/issues"
+  },
+  "homepage": "https://github.com/gk108000/Login#readme"
+}
